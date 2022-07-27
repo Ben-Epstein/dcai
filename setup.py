@@ -6,7 +6,7 @@ with open(REQUIREMENTS_FILE, "r") as dependencies_file:
     DEPENDENCIES = dependencies_file.readlines()
 
 setup(
-    name="dcai",
+    name="data-centric-ai",
     version="0.0.0",
     install_requires=DEPENDENCIES,
     packages=find_packages(),
