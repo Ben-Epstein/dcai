@@ -8,3 +8,5 @@ matplotlib
 jupyter
 nlpaug
 git+https://github.com/okankop/vidaug
+librosa
+soundfile
