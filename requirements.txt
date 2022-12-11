@@ -4,3 +4,7 @@ sklearn
 imblearn
 plotly
 mxnet
+matplotlib
+jupyter
+nlpaug
+git+https://github.com/okankop/vidaug
