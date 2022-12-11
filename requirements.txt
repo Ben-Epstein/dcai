@@ -10,3 +10,5 @@ nlpaug
 git+https://github.com/okankop/vidaug
 librosa
 soundfile
+scikit-image
+opencv-python
