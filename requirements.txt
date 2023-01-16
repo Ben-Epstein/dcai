@@ -12,3 +12,4 @@ librosa
 soundfile
 scikit-image
 opencv-python
+umap_learn
