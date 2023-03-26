@@ -16,3 +16,4 @@ umap_learn
 gensim
 sentence-transformers
 datasets
+solara
