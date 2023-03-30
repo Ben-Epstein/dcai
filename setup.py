@@ -7,7 +7,7 @@ with open(REQUIREMENTS_FILE, "r") as dependencies_file:
 
 setup(
     name="data-centric-ai",
-    version="0.0.0",
+    version="0.0.1",
     install_requires=DEPENDENCIES,
     packages=find_packages(),
     license='Apache License, Version 2.0',
